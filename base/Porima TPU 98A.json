@@ -1,0 +1,13 @@
+{
+    "filament_settings_id": [
+        "Porima TPU 98A"
+    ],
+    "filament_vendor": [
+        "Porima"
+    ],
+    "from": "User",
+    "inherits": "My Generic TPU",
+    "is_custom_defined": "0",
+    "name": "Porima TPU 98A",
+    "version": "2.2.0.4"
+}

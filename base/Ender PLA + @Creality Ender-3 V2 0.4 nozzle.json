@@ -1,0 +1,13 @@
+{
+    "filament_settings_id": [
+        "Ender PLA + @Creality Ender-3 V2 0.4 nozzle"
+    ],
+    "filament_vendor": [
+        "Ender"
+    ],
+    "from": "User",
+    "inherits": "eSUN PLA + @Creality Ender-3 V2 0.4 nozzle(Hinge Calibration.3mf)",
+    "is_custom_defined": "0",
+    "name": "Ender PLA + @Creality Ender-3 V2 0.4 nozzle",
+    "version": "0.0.0.0"
+}
