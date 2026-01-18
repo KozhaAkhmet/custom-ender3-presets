@@ -1,0 +1,21 @@
+{
+    "default_acceleration": "2200",
+    "from": "User",
+    "inherits": "0.20mm Standard @MyKlipper",
+    "inner_wall_acceleration": "2200",
+    "inner_wall_speed": "120",
+    "internal_solid_infill_speed": "120",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard Hollow",
+    "outer_wall_acceleration": "2000",
+    "outer_wall_speed": "100",
+    "print_settings_id": "0.20mm Standard Hollow",
+    "sparse_infill_density": "0%",
+    "sparse_infill_speed": "120",
+    "top_shell_layers": "0",
+    "top_surface_acceleration": "2000",
+    "travel_acceleration": "2200",
+    "travel_speed": "120",
+    "version": "2.2.0.4",
+    "wall_loops": "2"
+}

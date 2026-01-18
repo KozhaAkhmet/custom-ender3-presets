@@ -1,0 +1,52 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "7"
+    ],
+    "fan_min_speed": [
+        "7"
+    ],
+    "filament_max_volumetric_speed": [
+        "12"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Porima PETG 2"
+    ],
+    "filament_vendor": [
+        "Porima"
+    ],
+    "filament_z_hop": [
+        "0.4"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "70"
+    ],
+    "inherits": "Creality Generic PETG",
+    "is_custom_defined": "0",
+    "name": "Porima PETG 2",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "245"
+    ],
+    "nozzle_temperature_range_high": [
+        "260"
+    ],
+    "nozzle_temperature_range_low": [
+        "225"
+    ],
+    "overhang_fan_speed": [
+        "7"
+    ],
+    "pressure_advance": [
+        "0.2"
+    ],
+    "version": "2.1.0.1"
+}

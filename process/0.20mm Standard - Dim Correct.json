@@ -1,0 +1,15 @@
+{
+    "brim_type": "no_brim",
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.20mm Standard @MyMarlin",
+    "is_custom_defined": "0",
+    "min_skirt_length": "5",
+    "name": "0.20mm Standard - Dim Correct",
+    "print_settings_id": "0.20mm Standard - Dim Correct",
+    "skirt_loops": "2",
+    "support_on_build_plate_only": "1",
+    "support_type": "tree(auto)",
+    "version": "2.1.0.1",
+    "wall_sequence": "outer wall/inner wall"
+}

@@ -1,0 +1,14 @@
+{
+    "bottom_shell_layers": "4",
+    "from": "User",
+    "inherits": "0.28mm Draft @Creality Ender3 0.4",
+    "is_custom_defined": "0",
+    "name": "0.28mm Draft Dim. Correct",
+    "print_settings_id": "0.28mm Draft Dim. Correct",
+    "sparse_infill_density": "8%",
+    "sparse_infill_pattern": "lightning",
+    "top_shell_layers": "4",
+    "version": "2.1.0.1",
+    "wall_generator": "classic",
+    "wall_sequence": "outer wall/inner wall"
+}

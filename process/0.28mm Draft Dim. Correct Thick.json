@@ -1,0 +1,19 @@
+{
+    "bottom_shell_layers": "4",
+    "from": "User",
+    "inherits": "0.28mm Draft @Creality Ender3 0.4",
+    "initial_layer_line_width": "0.6",
+    "inner_wall_line_width": "0.6",
+    "is_custom_defined": "0",
+    "line_width": "0.6",
+    "name": "0.28mm Draft Dim. Correct Thick",
+    "outer_wall_line_width": "0.6",
+    "print_settings_id": "0.28mm Draft Dim. Correct Thick",
+    "sparse_infill_density": "8%",
+    "sparse_infill_pattern": "lightning",
+    "top_shell_layers": "4",
+    "top_surface_line_width": "0.6",
+    "version": "2.1.0.1",
+    "wall_generator": "classic",
+    "wall_sequence": "outer wall/inner wall"
+}

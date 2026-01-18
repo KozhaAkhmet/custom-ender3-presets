@@ -1,0 +1,16 @@
+{
+    "from": "User",
+    "inherits": "0.20mm Standard @Creality Ender3V2",
+    "initial_layer_infill_speed": "45",
+    "initial_layer_speed": "30",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @Creality Ender3V2 - Copy",
+    "print_settings_id": "0.20mm Standard @Creality Ender3V2 - Copy",
+    "skirt_distance": "5",
+    "skirt_loops": "2",
+    "slowdown_for_curled_perimeters": "1",
+    "top_shell_layers": "3",
+    "travel_speed": "130",
+    "version": "1.9.0.2",
+    "wall_sequence": "inner-outer-inner wall"
+}

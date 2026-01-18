@@ -1,0 +1,14 @@
+{
+    "brim_type": "no_brim",
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.20mm Standard @Creality Ender3V2Neo",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard - Dim Correct.",
+    "print_settings_id": "0.20mm Standard - Dim Correct.",
+    "skirt_distance": "3",
+    "skirt_loops": "2",
+    "support_type": "tree(auto)",
+    "version": "2.1.0.1",
+    "wall_sequence": "outer wall/inner wall"
+}

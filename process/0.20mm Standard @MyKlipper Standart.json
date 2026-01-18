@@ -1,0 +1,21 @@
+{
+    "default_acceleration": "2200",
+    "from": "User",
+    "inherits": "0.20mm Standard @MyKlipper",
+    "inner_wall_acceleration": "2200",
+    "inner_wall_speed": "150",
+    "internal_solid_infill_speed": "150",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @MyKlipper Standart",
+    "outer_wall_acceleration": "2200",
+    "print_settings_id": "0.20mm Standard @MyKlipper Standart",
+    "sparse_infill_density": "5%",
+    "sparse_infill_pattern": "gyroid",
+    "sparse_infill_speed": "150",
+    "top_shell_layers": "3",
+    "top_surface_acceleration": "2200",
+    "travel_acceleration": "2200",
+    "travel_speed": "150",
+    "version": "2.2.0.4",
+    "wall_loops": "2"
+}

@@ -221,6 +221,13 @@
         "0"
     ],
     "inherits": "",
+    "internal_bridge_fan_speed": [
+        "-1"
+    ],
+    "ironing_fan_speed": [
+        "-1"
+    ],
+    "is_custom_defined": "0",
     "name": "eSUN PLA +",
     "nozzle_temperature": [
         "210"
@@ -260,6 +267,12 @@
     ],
     "slow_down_min_speed": [
         "30"
+    ],
+    "supertack_plate_temp": [
+        "35"
+    ],
+    "supertack_plate_temp_initial_layer": [
+        "35"
     ],
     "support_material_interface_fan_speed": [
         "-1"
